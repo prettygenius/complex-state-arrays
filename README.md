@@ -1,4 +1,5 @@
 ## Complex State: using Arrays
+##Solution in ./src/App.jsx file 
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
@@ -6,9 +7,10 @@
 
 Using the two in conjunction is one of the fastest ways to build a web app.
 
-##  - Challenge: Convert the code below to use an array
-     - held in state instead of a local variable. Initialize 
-     - the state array with the same 2 items below
+##  Challenge: 
+     - Convert the code below to use an array
+     - hold in state instead of a local variable. 
+     -Initialize the state array with the same 2 items below
      - fix `addItem` 
      
 ```React
